@@ -1,5 +1,5 @@
 ## 简介
-spacemacs 中文文档，为广大 emacs 用户做贡献。
+spacemacs 中文文档，为广大 emacs 用户做贡献。
 ## 目录
 - [quick start](https://github.com/crazylxr/spacemacas-ch-doc/blob/master/quick-start.md)
 - [1 Core Pillars](https://github.com/crazylxr/spacemacas-ch-doc/blob/master/core-pillars.md)
